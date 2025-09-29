@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useTaskStore } from '../../store';
-import { Task, Priority, TaskStatus } from '../../types';
+import { Priority, TaskStatus } from '../../types';
 import Modal from '../ui/Modal';
 import Button from '../ui/Button';
 

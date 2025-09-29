@@ -19,7 +19,7 @@ const KanbanBoard: React.FC = () => {
     moveTask(draggableId, destination.droppableId as any, destination.index);
   };
 
-  const handleAddTask = (status: string) => {
+  const handleAddTask = () => {
     setEditingTask(null);
     setModalOpen(true);
   };
@@ -65,7 +65,7 @@ const KanbanBoard: React.FC = () => {
                     </span>
                   </h3>
                   <button
-                    onClick={() => handleAddTask(columnId)}
+                    onClick={() => handleAddTask()}
                     className="p-1 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
                     title="Add task"
                   >

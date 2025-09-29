@@ -1,4 +1,3 @@
-import React from 'react';
 import Dashboard from './pages/Dashboard';
 import { useDarkMode } from './hooks/useDarkMode';
 import './index.css';
