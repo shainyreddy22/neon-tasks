@@ -2,8 +2,6 @@
 
 A vibrant and interactive task management web application built with React, TypeScript, and TailwindCSS. Organize your work and life with beautiful Kanban boards, drag-and-drop functionality, and a sleek modern interface.
 
-![NeonTasks Preview](https://neon-tasks.vercel.app/)
-
 ## ✨ Features
 
 ### 🎯 Core Functionality
