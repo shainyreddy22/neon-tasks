@@ -2,7 +2,7 @@
 
 A vibrant and interactive task management web application built with React, TypeScript, and TailwindCSS. Organize your work and life with beautiful Kanban boards, drag-and-drop functionality, and a sleek modern interface.
 
-![NeonTasks Preview](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=NeonTasks+Preview)
+![NeonTasks Preview](https://neon-tasks.vercel.app/)
 
 ## ✨ Features
 
@@ -214,9 +214,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help:
-- 📧 Email: support@neontasks.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/neontasks/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/neontasks/discussions)
+- 📧 Email: karnatishainyreddy@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/shainyreddy22/neon-tasks/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/shainyreddy22/neon-tasks/discussions)
 
 ---
 
